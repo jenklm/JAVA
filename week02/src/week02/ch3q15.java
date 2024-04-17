@@ -7,7 +7,7 @@ public class ch3q15 {
 		Scanner scan = new Scanner(System.in);
 		  
 		 System.out.print("키를 입력하시오: ");
-		 height = scan.nextDouble();
+		 height = scan.nextDouble(); 
 		 
 		 System.out.print("몸무게를 입력하시오: ");
 		 weight=scan.nextDouble();
