@@ -22,3 +22,4 @@ public class ch3q15 {
 		 System.out.print("과체중");
 		 }
 }
+ 
