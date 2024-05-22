@@ -11,7 +11,7 @@ public class ch3q15 {
 		 
 		 System.out.print("몸무게를 입력하시오: ");
 		 weight=scan.nextDouble();
-		  
+		   
 		 standard = (height -100) * 0.9;
 		  
 		 if(standard > weight)
